@@ -1,0 +1,28 @@
+{
+  "economics": [
+    {
+      "id": 1,
+      "name": "Chování spotřebitele a formování poptávky",
+      "description": "racionální chování spotřebitele, užitek a jeho měření, celkový a mezní užitek – grafické znázornění, rovnováha spotřebitele – grafické vyjádření, poptávka a její elasticita, substituční a důchodový efekt poptávky",
+      "file": "02"
+    },
+    {
+      "id": 2,
+      "name": "Chování výrobce a formování nabídky",
+      "description": "grafické znázornění: nákladové funkce, příjmy a náklady v krátkém a dlouhém období, produkční funkce, celkový, průměrný a mezní produkt, nákladové optimum firmy",
+      "file": "03"
+    },
+    {
+      "id": 3,
+      "name": "Dokonalá konkurence a tržní rovnováha",
+      "description": "charakteristika dokonalé konkurence, rovnováha firmy maximalizující zisk, křivka nabídky - bod uzavření firmy, bod zvratu, krátkodobá a dlouhodobá rovnováha – grafické znázornění, přebytek spotřebitele, přebytek výrobce",
+      "file": "04"
+    },
+    {
+      "id": 4,
+      "name": "Chování výrobce a formování nabídky",
+      "description": "příčiny existence nedokonalé konkurence, charakteristika tržních struktur: monopol – grafické znázornění, příklad(y), cenová regulace monopolu, analýza přebytků spotřebitele a výrobce v případě monopolu), monopson (vysvětlení pojmu, příklad)",
+      "file": "05"
+    }
+  ]
+}
