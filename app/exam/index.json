@@ -1,28 +1,52 @@
 {
-  "economics": [
+  "management": [
     {
       "id": 1,
-      "name": "Chování spotřebitele a formování poptávky",
-      "description": "racionální chování spotřebitele, užitek a jeho měření, celkový a mezní užitek – grafické znázornění, rovnováha spotřebitele – grafické vyjádření, poptávka a její elasticita, substituční a důchodový efekt poptávky",
-      "file": "02"
+      "name": "Základní pojmy managementu",
+      "description": "Vymezení pojmu management, hlavní úkoly, vývojové etapy. Manažer, osobnost a role manažera. Manažerské kompetence",
+      "file": "01"
     },
     {
       "id": 2,
-      "name": "Chování výrobce a formování nabídky",
-      "description": "grafické znázornění: nákladové funkce, příjmy a náklady v krátkém a dlouhém období, produkční funkce, celkový, průměrný a mezní produkt, nákladové optimum firmy",
-      "file": "03"
+      "name": "Rozhodovací proces",
+      "description": "Rozhodovací proces, řešení problému z pozice manažera, manažerské techniky pro podporu rozhodování",
+      "file": "02"
     },
     {
       "id": 3,
-      "name": "Dokonalá konkurence a tržní rovnováha",
-      "description": "charakteristika dokonalé konkurence, rovnováha firmy maximalizující zisk, křivka nabídky - bod uzavření firmy, bod zvratu, krátkodobá a dlouhodobá rovnováha – grafické znázornění, přebytek spotřebitele, přebytek výrobce",
-      "file": "04"
+      "name": "Funkce managementu",
+      "description": "Funkce managementu - plánování, organizování, stimulace a kontrola a jejich plnění na různých úrovních managementu",
+      "file": "03"
     },
     {
       "id": 4,
-      "name": "Chování výrobce a formování nabídky",
-      "description": "příčiny existence nedokonalé konkurence, charakteristika tržních struktur: monopol – grafické znázornění, příklad(y), cenová regulace monopolu, analýza přebytků spotřebitele a výrobce v případě monopolu), monopson (vysvětlení pojmu, příklad)",
+      "name": "Organizační struktura",
+      "description": "Organizační struktura, jednotlivé typy, jejich přínosy versus limity, možnosti aplikace v praxi. Nástroje organizování v podniku",
+      "file": "04"
+    },
+    {
+      "id": 5,
+      "name": "Management v kontextu firemního prostředí",
+      "description": "Management v kontextu firemního prostředí. Styly řízení, řízení versus vedení. Leadership. Firemní kultura její determinanty",
       "file": "05"
+    },
+    {
+      "id": 6,
+      "name": "Strategické řízení lidských zdrojů",
+      "description": "Strategické řízení lidských zdrojů - vývoj, hlavní úlohy a cíle. Klíčové procesy řízení lidských zdrojů a jejich základní charakteristika",
+      "file": "06"
+    },
+    {
+      "id": 7,
+      "name": "Personální politika",
+      "description": "Analýza pracovních míst, pracovní pozice, pracovní role. Personální plánování",
+      "file": "07"
+    },
+    {
+      "id": 8,
+      "name": "Vyhledávání, získávání, výběr a přijímání zaměstnanců",
+      "description": "Vyhledávání, získávání, výběr a přijímání zaměstnanců",
+      "file": "08"
     }
   ]
 }

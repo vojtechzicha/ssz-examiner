@@ -62,8 +62,8 @@ export const links: LinksFunction = () => [
 
 const navItems = [
   { label: 'Home', url: '/' },
-  { label: 'Economics', url: '/browse/economics' },
-  // { label: 'Management', url: '/browse/management' },
+  // { label: 'Economics', url: '/browse/economics' },
+  { label: 'Management', url: '/browse/management' },
   { label: 'Examine', url: '/exam' },
 ]
 
