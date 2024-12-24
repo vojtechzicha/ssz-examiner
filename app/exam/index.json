@@ -47,6 +47,42 @@
       "name": "Vyhledávání, získávání, výběr a přijímání zaměstnanců",
       "description": "Vyhledávání, získávání, výběr a přijímání zaměstnanců",
       "file": "08"
+    },
+    {
+      "id": 9,
+      "name": "Adaptace nových zaměstnanců",
+      "description": "Adaptace nových zaměstnanců, podstata, cíle a průběh procesu. Formy a nástroje adaptace, její rizika.",
+      "file": "09"
+    },
+    {
+      "id": 10,
+      "name": "Pracovní výkon a jeho hodnocení",
+      "description": "Pracovní výkon, pracovní výkonnost, řízení a hodnocení pracovního výkonu. Hodnocení zaměstnanců: cíle, postupy a metody.",
+      "file": "10"
+    },
+    {
+      "id": 11,
+      "name": "Motivace zaměstnanců",
+      "description": "Motivace zaměstnanců - principy, účel, cíle. Motiv vs. stimul. Motivační teorie a jejich aplikace do praxe.",
+      "file": "11"
+    },
+    {
+      "id": 12,
+      "name": "Odměňování zaměstnanců",
+      "description": "Odměňování zaměstnanců: základní zásady, způsoby odměňování. Péče o zaměstnance, zaměstnanecké výhody.",
+      "file": "12"
+    },
+    {
+      "id": 13,
+      "name": "Vzdělávání a rozvoj zaměstnanců",
+      "description": "Vzdělávání a rozvoj zaměstnanců - smysl, cíle proces, metody. Specifika rozvoje manažerských kompetencí, rozvoj jako motivační nástroj.",
+      "file": "13"
+    },
+    {
+      "id": 14,
+      "name": "Strategický management",
+      "description": "Strategický management, postup, strategické směry podniku, generické strategie, záměr, cíle, implementace strategie do podniku.",
+      "file": "14"
     }
   ]
 }
